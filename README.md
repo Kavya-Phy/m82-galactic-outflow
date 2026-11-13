@@ -21,6 +21,7 @@ Messier 82 drives a powerful galactic superwind fueled by intense starburst acti
 
 ## 📊 Key Results & Visualizations
 *Minor-axis flux profile and photometric reduction parameters.*
+[View M82 Photometry Data Table](m82_photometry_data_table.pdf)
 ---
 
 ## 🚀 Getting Started / Reproduction
