@@ -21,8 +21,7 @@ Messier 82 drives a powerful galactic superwind fueled by intense starburst acti
 
 ## 📊 Key Results & Visualizations
 *Minor-axis flux profile showing exponential decay of ionized emission with increasing distance from the nuclear starburst:*
-![Minor-Axis Outflow Profile](file:///D:/hubble%20telescope%20fits%20data/word%20document/m82_photometry_data_table.pdf)
-
+![Minor-Axis Outflow Profile](https://file:///D:/hubble%20telescope%20fits%20data/word%20document/m82_photometry_data_table.pdf)
 ---
 
 ## 🚀 Getting Started / Reproduction
